@@ -1,0 +1,12 @@
+{
+  "admin": {
+    "role": "ADMIN",
+    "salt": "d5321e9d16d2e04fb3d938f57da92397",
+    "hash": "b59022502c7cf08ec7883d0f68f6274b8b9f597b7db582d372e94c108052510c"
+  },
+  "analyst": {
+    "role": "DATA_ANALYST",
+    "salt": "58ca9f0a6e5e585be2fecf98284109b4",
+    "hash": "e274b2b87aa29b648ad85968a97013a1b5c890660e29f5d7ca33fe17068abae9"
+  }
+}
